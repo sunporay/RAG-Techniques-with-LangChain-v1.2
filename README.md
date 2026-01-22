@@ -1,4 +1,4 @@
-# learn-RAG
+# Learn-RAG
 [rag-from-scratch](https://github.com/langchain-ai/rag-from-scratch?tab=readme-ov-file) 和 [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) 這兩個RAG教學課程是以Langchain v0.3.x來介紹，與Langchain v1.2.x有很多不同，這裡主要以Langchain v1.2.x來復刻這兩個課程的內容。
 
 
